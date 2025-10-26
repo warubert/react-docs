@@ -1,3 +1,3 @@
 # react-docs
 
-exercicios documentacao react
+estudo documentacao react
